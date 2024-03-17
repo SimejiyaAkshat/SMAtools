@@ -1,0 +1,3 @@
+[submodule "SMAtoolsFrontend"]
+	path = SMAtoolsFrontend
+	url = https://github.com/SimejiyaAkshat/SMAtoolsFrontend.git
