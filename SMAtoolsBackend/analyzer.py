@@ -128,7 +128,7 @@ class WebsitePerformanceAnalyzer:
             return None, None
 
 
-# analyzer = WebsitePerformanceAnalyzer("https://tiaracrystalshop.com/")
+# analyzer = WebsitePerformanceAnalyzer("https://akshatsimejiya.netlify.app/")
 # print("Loading Time:", analyzer.get_loading_time(), "seconds")
 # print("Time to First Byte:", analyzer.get_time_to_first_byte(), "seconds")
 # print("Page Size:", analyzer.get_page_size(), "KB")
